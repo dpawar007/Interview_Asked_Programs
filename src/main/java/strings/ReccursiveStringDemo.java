@@ -3,7 +3,7 @@ package strings;
 public class ReccursiveStringDemo {
 
 	public static void main(String[] args) {
-		String s = "I LOVE MY INDIA";
+		String s = "I LOVE MY INDIA"; 
 		String reversed = reverseString(s);
 		System.out.println("Original string: " + s);
 		System.out.println("Reversed string: " + reversed);
